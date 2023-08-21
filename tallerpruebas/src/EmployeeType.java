@@ -1,3 +1,4 @@
-package tallerpruebas;
+package src;
+
 
 public enum EmployeeType { Worker, Supervisor, Manager }
